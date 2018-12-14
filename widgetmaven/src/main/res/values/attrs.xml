@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="pg_startprogress" format="float"/>
+        <attr name="pg_endprogress" format="integer" />
+        <attr name="pg_max" format="integer"/>
+        <attr name="pg_text_isvisible" format="boolean"/>
+        <attr name="pg_solid" format="color"/>
+        <attr name="pg_width" format="integer"/>
+    </declare-styleable>
+
+</resources>
